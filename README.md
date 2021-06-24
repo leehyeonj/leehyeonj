@@ -13,3 +13,4 @@
 <!--   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> -->
 </div>
 
+<p align="center">기술 블로그 : https://sso-feeling.tistory.com/
