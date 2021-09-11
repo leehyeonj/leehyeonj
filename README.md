@@ -14,6 +14,9 @@
 <p> ✈ 웹 성능 최적화에 대해 공부하고 있습니다. </p>
 <p> 🍂 기록하는 것을 좋아합니다.  https://sso-feeling.tistory.com/</p>
 <p> 🏃‍♂️ 좋은 사람들과 효율적이고 적극적으로 협업하는 것을 즐깁니다. </p>
+
+![포트폴리오](https://alabaster-bar-e26.notion.site/React-7c1d5dd3973a4dc09a54342a8c8a03e5)
+
 <br>
 
 
