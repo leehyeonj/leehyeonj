@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehyeonj&theme=aura&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehyeonj&layout=compact&theme=tokyonight)
 
 last updated 2022.05.02
